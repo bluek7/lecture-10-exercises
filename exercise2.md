@@ -9,3 +9,8 @@ Edit this Markdown document below to display:
 - An image of the band (which you should download from the web, and display)
 
 ----
+
+My favourite band is Coldplay. Some of their new songs are:
+- Hymn for the Weekend
+- Up & Up
+- Army of One
